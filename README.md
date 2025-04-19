@@ -42,11 +42,13 @@ FreeCell-Project/
 └── README.md               
 
 
-## ▶️ Executer le Projet
-- Ouvrir le fichier 'FreeCell.cbp' dans code blocs
-- Compiler et executer le projet
+> ## ▶️ Exécuter le Projet
 
-## Exemple d'execution
+> - Ouvrir le fichier `FreeCell.cbp` dans Code::Blocks
+> - Compiler et exécuter le projet
 
-![FreeCell Project](images/image1.png)
-![FreeCell Project](images/image2.png)
+> ## 📸 Exemple d'exécution
+
+![FreeCell-Project](images/image1.png)
+![FreeCell-Project](images/image2.png)
+
