@@ -1,7 +1,8 @@
 # 🃏 FreeCell Game Project - CLI Version in C
 
-> Jeu de cartes FreeCell en ligne de commande, développé en langage C dans le cadre d'un projet personnel ou académique.
+> Jeu de cartes FreeCell en ligne de commande, développé en langage C dans le cadre d'un projet académique.
 
+![FreeCell-Project](images/FreeCell.png)
 ---
 
 ## 🎮 À propos du projet
@@ -28,6 +29,7 @@ Ce projet a été réalisé en C sans interface graphique, uniquement à l'aide 
 
 ---
 
+
 ## 🏗️ Structure du projet
 
 ```bash
@@ -40,14 +42,27 @@ FreeCell-Project/
 ├── images/                  
 ├── .gitignore              
 └── README.md               
+```
 
+## ▶️ Exécuter le Projet
 
-> ## ▶️ Exécuter le Projet
+### Cloner le répertoire 
+```bash
+git clone https://github.com/MzioudMohamed/FreeCell-Project.git
+```
 
-> - Ouvrir le fichier `FreeCell.cbp` dans Code::Blocks
-> - Compiler et exécuter le projet
+### Méthode 1 : Avec Code::Blocks (recommandé)
+  
+1. **Ouvrir** : `File` → `Open...` → `FreeCell.cbp`.  
+2. **Compiler** : `Build` → `Build` (ou `F9`).  
+3. **Exécuter** : `Build` → `Run` (ou `F10`).  
 
-> ## 📸 Exemple d'exécution
+### **Méthode 2 : Terminal (GCC)**  
+```bash
+gcc code_source/main.c code_source/implementation.c -o bin/FreeCell && ./bin/FreeCell
+```
+
+## 📸 Exemple d'exécution
 
 ![FreeCell-Project](images/image1.png)
 ![FreeCell-Project](images/image2.png)
