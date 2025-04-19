@@ -64,6 +64,5 @@ gcc code_source/main.c code_source/implementation.c -o bin/FreeCell && ./bin/Fre
 
 ## 📸 Exemple d'exécution
 
-![FreeCell-Project](images/image1.png)
 ![FreeCell-Project](images/image2.png)
 
