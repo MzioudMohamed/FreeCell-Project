@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1706307950 source:c:\users\lenovo\documents\mzioud_mohamed\implementation.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"functions.h"
+
+1706225577 c:\users\lenovo\documents\mzioud_mohamed\functions.h
+
+1706308189 source:c:\users\lenovo\documents\mzioud_mohamed\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"functions.h"
+
+1706573839 source:c:\users\lenovo\documents\mzioud_mohamed\source_code\implementation.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"functions.h"
+
+1706225577 c:\users\lenovo\documents\mzioud_mohamed\source_code\functions.h
+
+1706536551 source:c:\users\lenovo\documents\mzioud_mohamed\source_code\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"functions.h"
+
+1706573840 source:c:\users\lenovo\onedrive\bureau\mzioud_mohamed\source_code\implementation.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"functions.h"
+
+1706225578 c:\users\lenovo\onedrive\bureau\mzioud_mohamed\source_code\functions.h
+
+1706536552 source:c:\users\lenovo\onedrive\bureau\mzioud_mohamed\source_code\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"functions.h"
+
+1706573840 source:c:\users\lenovo\onedrive\bureau\freecell project\source_code\implementation.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"functions.h"
+
+1706225578 c:\users\lenovo\onedrive\bureau\freecell project\source_code\functions.h
+
+1706536552 source:c:\users\lenovo\onedrive\bureau\freecell project\source_code\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"functions.h"
+
+1706573840 source:c:\users\lenovo\onedrive\bureau\freecell project\code_source\implementation.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"functions.h"
+
+1706225578 c:\users\lenovo\onedrive\bureau\freecell project\code_source\functions.h
+
+1706536552 source:c:\users\lenovo\onedrive\bureau\freecell project\code_source\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"functions.h"
+
